@@ -1,0 +1,24 @@
+{
+  "name": "curso-ecmascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivan2600/curso-ecmascript.git"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript",
+    "curso"
+  ],
+  "author": "Ivan Adamo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivan2600/curso-ecmascript/issues"
+  },
+  "homepage": "https://github.com/ivan2600/curso-ecmascript#readme"
+}
