@@ -1,0 +1,12 @@
+const anotherfunction = () => {
+  return new Promise((resolve, reject) => {
+    if (true) {
+      resolve('Hey!!!');
+    } else {
+      reject('Woooooh!');
+    }
+  })
+}
+
+anotherfunction()
+  .then(response => console.log(response))
