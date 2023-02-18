@@ -17,6 +17,7 @@
   ],
   "author": "Ivan Adamo",
   "license": "MIT",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/ivan2600/curso-ecmascript/issues"
   },
